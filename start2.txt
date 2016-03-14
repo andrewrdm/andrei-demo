@@ -1,0 +1,2 @@
+For a remote server, use:	
+git clone username@host:/path/to/repository
